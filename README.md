@@ -38,9 +38,9 @@ This project is based on the [DeepLearning.ai](https://www.deeplearning.ai/) sho
 ## 🚀 Final Project Deliverable
 
 An end-to-end **Multimodal RAG system** that:
-- Embeds and indexes different data modalities
-- Retrieves the most relevant multimodal context
-- Generates natural language answers with LLMs
+- Embeds and indexes different data modalities.
+- Retrieves the most relevant multimodal context.
+- Generates natural language answers with LLMs.
 
 Includes advanced features like:
 - Image-to-text Q&A
